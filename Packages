@@ -1119,3 +1119,34 @@ Description: Unlimited subscription for the Ulysses writing app
 Author: Paisseon
 Name: Ulysses Crack
 
+Package: com.al7rbe.offa
+Name: snapchat offa
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Version: 0.0-1
+Architecture: al7rbe
+Description: https://media.discordapp.net/attachments/995222906265145374/1246164737608253612/25_20240531211326.png?ex=665b64da&is=665a135a&hm=235153f632e326feb43c0addd12e7e236d73d9363232a5900d44eb3bbcabc361&=&format=webp&quality=lossless&width=563&height=498
+Maintainer: al7rbe
+Author: al7rbe
+Section: Beta Tweaks
+Filename: ./debs/snapchat.MOV_v0.deb
+MD5sum: b469484eaa91ab1dabb842db3646822e
+SHA1: 0ea10f5ab840d0f90a64cf4afd32500b9ae73357
+SHA256: 107af0884047a7b55911fe4f3e7a0e3c0fae467db1a1154416e868bbac3fa341
+Size: 132064
+
+Package: com.al7rbe.offa
+Version: 0.1
+Architecture: al7rbe
+Maintainer: al7rbe
+Installed-Size: 132064
+Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
+Conflicts: moe.emilia.ulysses
+Filename: debs/snapchat.MOV_v0.deb
+Size: 17936
+MD5sum: b469484eaa91ab1dabb842db3646822e
+SHA1: 0ea10f5ab840d0f90a64cf4afd32500b9ae73357
+SHA256: 107af0884047a7b55911fe4f3e7a0e3c0fae467db1a1154416e868bbac3fa341
+Section: Beta Tweaks
+Description: https://media.discordapp.net/attachments/995222906265145374/1246164737608253612/25_20240531211326.png?ex=665b64da&is=665a135a&hm=235153f632e326feb43c0addd12e7e236d73d9363232a5900d44eb3bbcabc361&=&format=webp&quality=lossless&width=563&height=498
+Author: al7rbe
+Name: snapchat offa
